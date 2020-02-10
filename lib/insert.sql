@@ -1,0 +1,1 @@
+insert into bears values (1, "Mr.Chocolate", 17, "M", "black", "happy", 2)
